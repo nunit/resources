@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2450"
+   height="1000"
+   viewBox="-5000000 0 0 1000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="nunit_logo_inkscape.svg"
+   inkscape:export-filename="D:\Dropbox\Nunit\Icon\nunit_logo_240.png"
+   inkscape:export-xdpi="9.0299997"
+   inkscape:export-ydpi="9.0299997">
+  <title
+     id="title">NUnit Logo</title>
+  <defs
+     id="defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="833.94299"
+     inkscape:cy="543.37154"
+     inkscape:document-units="px"
+     inkscape:current-layer="background"
+     showgrid="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-center="true" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>NUnit Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Rob Prouse</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="NUnit"
+     inkscape:groupmode="layer"
+     id="background"
+     style="display:inline">
+    <circle
+       style="fill:#005b0c"
+       id="green_circle"
+       cx="500"
+       cy="500"
+       inkscape:label="#green_circle"
+       r="480" />
+    <circle
+       style="fill:none;stroke:#ffffff;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ring"
+       cx="500"
+       cy="500"
+       r="385" />
+    <path
+       inkscape:connector-curvature="0"
+       id="letter_n"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 417.47137,355.35112 0,11.81538 q 25.77901,-34.01398 56.21257,-49.76782 30.7916,-16.11188 70.53424,-16.11188 38.66852,0 69.10208,16.82796 30.43356,16.82797 45.47132,47.61957 9.66713,17.90209 12.53146,38.66852 2.86434,20.76643 2.86434,52.99019 l 0,181.88527 q 0,29.35943 -13.60559,44.39719 -13.24755,15.03775 -34.73006,15.03775 -21.84056,0 -35.44615,-15.3958 -13.60559,-15.3958 -13.60559,-44.03914 l 0,-162.90905 q 0,-48.33565 -13.60559,-73.75662 -13.24755,-25.77901 -53.34823,-25.77901 -26.13706,0 -47.61957,15.75384 -21.48251,15.3958 -31.50768,42.60698 -7.16084,21.84055 -7.16084,81.63354 l 0,122.45032 q 0,29.71747 -13.96363,44.75523 -13.60559,14.67971 -35.44615,14.67971 -21.12447,0 -34.73006,-15.3958 -13.60559,-15.3958 -13.60559,-44.03914 l 0,-282.49503 q 0,-27.92726 12.17343,-41.53285 12.17342,-13.96363 33.29789,-13.96363 12.88951,0 23.27272,6.08671 10.38321,6.08671 16.46992,18.26013 6.44476,12.17343 6.44476,29.71748 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:737.17236328px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#005b0c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1007.1271"
+       y="689.71454"
+       id="text4141"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4143"
+         x="2509.188"
+         y="689.71454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:start;text-anchor:start;fill:#005b0c;fill-opacity:1;">unit </tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="circles"
+     inkscape:label="Circles"
+     style="display:inline;opacity:1">
+    <circle
+       style="fill:#ffffff;stroke:none;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="top_circle"
+       cx="500"
+       cy="118.743"
+       r="60" />
+    <circle
+       r="60"
+       cy="-1064.2698"
+       cx="183.0127"
+       id="right_circle"
+       style="fill:#ffffff;stroke:none;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-330.17829"
+       inkscape:transform-center-y="190.6285"
+       transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" />
+    <circle
+       style="fill:#ffffff;stroke:none;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="left_circle"
+       cx="-683.01276"
+       cy="-198.24432"
+       r="60"
+       inkscape:transform-center-x="330.17826"
+       inkscape:transform-center-y="190.62853"
+       transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" />
+  </g>
+</svg>
